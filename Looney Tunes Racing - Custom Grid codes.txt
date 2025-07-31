@@ -1,0 +1,133 @@
+SLUS-01145 - Looney Tunes Racing
+
+[Custom Grid\CPU 1 Character]
+Type = Gameshark
+Activation = EndFrame
+Option = Bugs Bunny:0
+Option = Marvin the Martian:1
+Option = Lola Bunny:2
+Option = Daffy Duck:3
+Option = Tasmanian Devil:4
+Option = Wile E Coyote:5
+Option = Yosemite Sam:6
+Option = Sylvester the Cat:7
+Option = Foghorn Leghorn:8
+Option = Pepe Le Pew:9
+Option = Elmer Fudd:10
+Option = Porky Pig:11
+Option = Gossamer:12
+Option = Granny:13
+Option = Duck Dodgers :14
+Option = Evil Scientist:15
+Option = Rocky:16
+Option = Smokey the Genie:17
+Option = Hector:18
+30098724 00??
+
+[Custom Grid\CPU 2 Character]
+Type = Gameshark
+Activation = EndFrame
+Option = Bugs Bunny:0
+Option = Marvin the Martian:1
+Option = Lola Bunny:2
+Option = Daffy Duck:3
+Option = Tasmanian Devil:4
+Option = Wile E Coyote:5
+Option = Yosemite Sam:6
+Option = Sylvester the Cat:7
+Option = Foghorn Leghorn:8
+Option = Pepe Le Pew:9
+Option = Elmer Fudd:10
+Option = Porky Pig:11
+Option = Gossamer:12
+Option = Granny:13
+Option = Duck Dodgers :14
+Option = Evil Scientist:15
+Option = Rocky:16
+Option = Smokey the Genie:17
+Option = Hector:18
+30098728 00??
+
+[Custom Grid\CPU 3 Character]
+Type = Gameshark
+Activation = EndFrame
+Option = Bugs Bunny:0
+Option = Marvin the Martian:1
+Option = Lola Bunny:2
+Option = Daffy Duck:3
+Option = Tasmanian Devil:4
+Option = Wile E Coyote:5
+Option = Yosemite Sam:6
+Option = Sylvester the Cat:7
+Option = Foghorn Leghorn:8
+Option = Pepe Le Pew:9
+Option = Elmer Fudd:10
+Option = Porky Pig:11
+Option = Gossamer:12
+Option = Granny:13
+Option = Duck Dodgers :14
+Option = Evil Scientist:15
+Option = Rocky:16
+Option = Smokey the Genie:17
+Option = Hector:18
+3009872C 00??
+
+[Custom Grid\CPU 4 Character]
+Type = Gameshark
+Activation = EndFrame
+Option = Bugs Bunny:0
+Option = Marvin the Martian:1
+Option = Lola Bunny:2
+Option = Daffy Duck:3
+Option = Tasmanian Devil:4
+Option = Wile E Coyote:5
+Option = Yosemite Sam:6
+Option = Sylvester the Cat:7
+Option = Foghorn Leghorn:8
+Option = Pepe Le Pew:9
+Option = Elmer Fudd:10
+Option = Porky Pig:11
+Option = Gossamer:12
+Option = Granny:13
+Option = Duck Dodgers :14
+Option = Evil Scientist:15
+Option = Rocky:16
+Option = Smokey the Genie:17
+Option = Hector:18
+30098730 00??
+
+[Custom Grid\CPU 5 Character]
+Type = Gameshark
+Activation = EndFrame
+Option = Bugs Bunny:0
+Option = Marvin the Martian:1
+Option = Lola Bunny:2
+Option = Daffy Duck:3
+Option = Tasmanian Devil:4
+Option = Wile E Coyote:5
+Option = Yosemite Sam:6
+Option = Sylvester the Cat:7
+Option = Foghorn Leghorn:8
+Option = Pepe Le Pew:9
+Option = Elmer Fudd:10
+Option = Porky Pig:11
+Option = Gossamer:12
+Option = Granny:13
+Option = Duck Dodgers :14
+Option = Evil Scientist:15
+Option = Rocky:16
+Option = Smokey the Genie:17
+Option = Hector:18
+30098734 00??
+
+[Custom Grid\How Many Racers?(Including Yourself)]
+Type = Gameshark
+Activation = EndFrame
+Option = solo:0 
+Option = 2 racers:1 
+Option = 3 racers:2 
+Option = 4 racers:3 
+Option = 5 racers:4 
+Option = 6 racers:5
+3009871D 00??
+ 
