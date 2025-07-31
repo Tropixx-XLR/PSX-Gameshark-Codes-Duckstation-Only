@@ -1,0 +1,364 @@
+00 - Mercedes SLK 230
+
+00 - Red
+01 - Yellow
+02 - White
+03 - Silver
+04 - Blue
+05 -
+06 -
+07 -
+08 - Dark Pale Blue
+09 - Dark Red/Maroon
+10 -
+11 -
+12 -
+13 -
+14 -
+15 -
+
+01 - BMW 23 Roadster 2.8
+
+00 - Bright Blue
+01 - Red
+02 - Slime Green
+03 - Silver
+04 - White
+05 - Blue
+06 - 
+07 - 
+08 - Purple
+09 - Dark Green
+10 - Black
+11 - Dark Blue
+12 -
+13 -
+14 -
+15 -
+
+
+02 - HSV VT GTS
+
+00 - Blue
+01 - White Metallic
+02 - Silver
+03 - Pewter Metallic
+04 - Red
+05 -
+06 -
+07 -
+08 - Dark Red
+09 - Black
+10 - Green
+11 -
+12 -
+13 -
+14 -
+15 -
+
+
+03 - Ford Falcon XR8
+
+00 - White
+01 - Gray
+02 - Pewter Metallic
+03 - Blue
+04 - Red
+05 -
+06 -
+07 -
+08 - Dark Red/Maroon
+09 - Black
+10 - Green
+11 -
+12 -
+13 -
+14 -
+15 - Dark Blue
+
+
+04 - Camaro Z28
+
+00 - Red
+01 - White
+02 - Gray
+03 - Dark Yellow
+04 - Green
+05 -
+06 -
+07 -
+08 - Dark Green
+09 - Dark Blue
+10 - Purple
+11 - Black
+12 - Dark Red/Maroon
+13 -
+14 -
+15 -
+
+
+05 - Firebird T/A
+
+00 - White
+01 - Gray
+02 - Dark Yellow
+03 - Red
+04 - 
+05 -
+06 -
+07 -
+08 - Dark Red/Maroon
+09 - Dark Blue
+10 - Green
+11 - Black
+12 - Dark Purple
+13 -
+14 -
+15 -
+
+06 - Aston Martin DB7
+
+00 - White Metallic
+01 - Gray
+02 - 
+03 - Pewter Metallic
+04 - Pale Green Metallic
+05 - Blue
+06 - Dark Red
+07 -
+08 - 
+09 - Green
+10 - Black
+11 - Dark Blue
+12 - Purple
+13 -
+14 -
+15 -
+
+07 - Jaguar XKR
+
+00 - Red
+01 - Dark Red/Maroon
+02 - Blue
+03 - 
+04 - 
+05 -
+06 -
+07 -
+08 - Purple
+09 - Black
+10 - Dark Green
+11 - Dark Blue Black
+12 -
+13 -
+14 -
+15 -
+
+08 - BMW M5
+
+00 - Red
+01 - White Metallic
+02 - Gray
+03 - Pale Blue Metallic
+04 - Blue
+05 -
+06 -
+07 -
+08 - Dark Green
+09 - Black
+10 - Dark Red
+11 -
+12 -
+13 -
+14 -
+15 -
+
+09 - Corvette
+
+00 - Red
+01 - Dark Red/Maroon
+02 - White
+03 - Silver
+04 - Pewter Metallic
+05 - Blue
+06 -
+07 - Green
+08 - Black
+09 - Dark Purple
+10 -
+11 -
+12 -
+13 -
+14 -
+15 -
+
+10 - 550 Maranello
+
+00 - Red
+01 - Gray
+02 - Pale Gold Metallic
+03 - Gray metallic w Blue
+04 - 
+05 - Blue
+06 - Dark Pale Blue
+07 - Orange or Gold
+08 - Dark Blue
+09 -
+10 -
+11 -
+12 - Dark Green
+13 -
+14 - Black
+15 - Dark Red
+
+11 - Porsche 911
+
+00 - Gray
+01 - White
+02 - Red
+03 - Yellow
+04 - Teal
+05 - Light Blue
+06 -
+07 -
+08 - Dark Green
+09 - Dark Blue
+10 - Dark Red/Maroon
+11 - Black
+12 -
+13 -
+14 -
+15 -
+
+12 - Ferrari F50
+
+00 - Red
+01 - Blue
+02 - Yellow
+03 - Pewter Metallic
+04 - Gray
+05 - White
+06 -
+07 -
+08 - Dark Green
+09 - Dark Blue
+10 - Black
+11 - Dark Red/Maroon
+12 -
+13 -
+14 -
+15 -
+
+13 - Diablo SV
+
+00 - Red
+01 - Slime Green/Lime Green
+02 - Yellow
+03 - White
+04 - Gray
+05 - Blue
+06 -
+07 -
+08 - Dark Blue
+09 - Dark Green
+10 - Black
+11 - Dark Purple/Grape
+12 - Dark Red/Maroon
+13 -
+14 -
+15 -
+
+14 - Mercedes CLK-GTR
+
+00 - Red
+01 - Dark Red
+02 - Silver
+03 - Gray
+04 - Pewter Metallic
+05 - Blue
+06 - Dark Green
+07 -
+08 - Black
+09 - Dark Purple/Grape
+10 -
+11 -
+12 -
+13 -
+14 -
+15 -
+
+15 - McLaren F1 GTR
+
+00 - Red
+01 - Dark Blue
+02 - Mclaren Orange
+03 - Silver
+04 - Purple
+05 - Blue
+06 - Green
+07 - Yellow
+08 - Dark Red
+09 - Pale Blue Metallic
+10 - Dark Purple
+11 -
+12 - Black
+13 -
+14 -
+15 -
+
+16 - Phantom
+
+00 - Gray/Dark Red
+01 - Gray/Dark Blue
+02 - Gold/Red
+03 -
+04 -
+05 -
+06 -
+07 -
+08 - Dark Red/Gold
+09 - Dark Red/Maroon
+10 - Dark Green/Yellow
+11 - Dark Red/Blue
+12 - Black/Purple
+13 -
+14 -
+15 -
+
+17 - Titan
+
+00 - Orange w Red Flame
+01 - Gold w Red Flame
+02 - Red w Orange Flame
+03 - Teal w Orange Flame
+04 - White/blue w Dark Red Flame
+05 - White/blue w Light Blue Flame
+06 - Slime Green w Orange Flame
+07 - Teal w Purple Flame
+08 - Purple w Purple Flame
+09 - Dark Purple w Purple Flame
+10 - Dark Blue w Blue Flame
+11 - Dark Blue w Red Flame
+12 - Purple w Yellow Flame
+13 - Dark Blue w Teal Flame
+14 - Dark Red w Orange Flame
+15 - Green w Orange Flame
+
+18 - Nissan Skyline R34
+
+00 - White Metallic
+01 - Red
+02 - Yellow
+03 - Blue
+04 - Gray metallic w Blue
+05 - Gray
+06 -
+07 -
+08 - Black
+09 -
+10 -
+11 -
+12 -
+13 -
+14 -
+15 -
