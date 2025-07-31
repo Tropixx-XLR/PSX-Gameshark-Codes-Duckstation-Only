@@ -1,0 +1,373 @@
+SLUS-00826 - NEED FOR SPEED HIGH STAKES COMPLETE EDITION
+
+[Opponents(enhanced)\Player 1 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Mercedes SLK 230:0
+Option = BMW 23 Roadster 2.8:1
+Option = HSV VT GTS:2
+Option = Ford Falcon XR8:3
+Option = Camaro Z28:4
+Option = Firebird T/A:5
+Option = Aston Martin DB7:6
+Option = Jaguar XKR:7
+Option = BMW M5:8
+Option = Corvette:9
+Option = 550 Maranello:10
+Option = Porsche 911:11
+Option = Ferrari F50:12
+Option = Diablo SV:13
+Option = Mercedes CLK-GTR:14
+Option = McLaren F1 GTR:15
+Option = Porsche 911 (Racer):16
+Option = Holden Commondore VT (Racer):17
+Option = Corvette (Racer):18
+Option = Phantom:19
+Option = Titan:20
+Option = Nissan Skyline R34:21
+Option = Caprice (Cop Car):22
+Option = Ford Falcon XR8 (Cop Car):23
+Option = BMW M5 (Cop Car):24
+Option = Corvette (Cop Car):25
+Option = Porsche 911 (Cop Car):26
+Option = Diablo SV (Cop Car):27
+30114878 00??
+
+[Opponents(enhanced)\Player 1 Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:15
+80114884 00??
+80118804 00??
+
+[Opponents(enhanced)\CPU 1 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Mercedes SLK 230:0
+Option = BMW 23 Roadster 2.8:1
+Option = HSV VT GTS:2
+Option = Ford Falcon XR8:3
+Option = Camaro Z28:4
+Option = Firebird T/A:5
+Option = Aston Martin DB7:6
+Option = Jaguar XKR:7
+Option = BMW M5:8
+Option = Corvette:9
+Option = 550 Maranello:10
+Option = Porsche 911:11
+Option = Ferrari F50:12
+Option = Diablo SV:13
+Option = Mercedes CLK-GTR:14
+Option = McLaren F1 GTR:15
+Option = Porsche 911 (Racer):16
+Option = Holden Commondore VT (Racer):17
+Option = Corvette (Racer):18
+Option = Phantom:19
+Option = Titan:20
+Option = Nissan Skyline R34:21
+Option = Caprice (Cop Car):22
+Option = Ford Falcon XR8 (Cop Car):23
+Option = BMW M5 (Cop Car):24
+Option = Corvette (Cop Car):25
+Option = Porsche 911 (Cop Car):26
+Option = Diablo SV (Cop Car):27
+801188AC 00??
+8011492C 00??
+
+[Opponents(enhanced)\CPU 1 Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:15
+80114938 00??
+801188B8 00??
+
+[Opponents(enhanced)\CPU 2 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Mercedes SLK 230:0
+Option = BMW 23 Roadster 2.8:1
+Option = HSV VT GTS:2
+Option = Ford Falcon XR8:3
+Option = Camaro Z28:4
+Option = Firebird T/A:5
+Option = Aston Martin DB7:6
+Option = Jaguar XKR:7
+Option = BMW M5:8
+Option = Corvette:9
+Option = 550 Maranello:10
+Option = Porsche 911:11
+Option = Ferrari F50:12
+Option = Diablo SV:13
+Option = Mercedes CLK-GTR:14
+Option = McLaren F1 GTR:15
+Option = Porsche 911 (Racer):16
+Option = Holden Commondore VT (Racer):17
+Option = Corvette (Racer):18
+Option = Phantom:19
+Option = Titan:20
+Option = Nissan Skyline R34:21
+Option = Caprice (Cop Car):22
+Option = Ford Falcon XR8 (Cop Car):23
+Option = BMW M5 (Cop Car):24
+Option = Corvette (Cop Car):25
+Option = Porsche 911 (Cop Car):26
+Option = Diablo SV (Cop Car):27
+80118960 00??
+801149E0 00??
+
+[Opponents(enhanced)\CPU 2 Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:15
+801149EC 00??
+8011896C 00??
+
+[Opponents(enhanced)\CPU 3 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Mercedes SLK 230:0
+Option = BMW 23 Roadster 2.8:1
+Option = HSV VT GTS:2
+Option = Ford Falcon XR8:3
+Option = Camaro Z28:4
+Option = Firebird T/A:5
+Option = Aston Martin DB7:6
+Option = Jaguar XKR:7
+Option = BMW M5:8
+Option = Corvette:9
+Option = 550 Maranello:10
+Option = Porsche 911:11
+Option = Ferrari F50:12
+Option = Diablo SV:13
+Option = Mercedes CLK-GTR:14
+Option = McLaren F1 GTR:15
+Option = Porsche 911 (Racer):16
+Option = Holden Commondore VT (Racer):17
+Option = Corvette (Racer):18
+Option = Phantom:19
+Option = Titan:20
+Option = Nissan Skyline R34:21
+Option = Caprice (Cop Car):22
+Option = Ford Falcon XR8 (Cop Car):23
+Option = BMW M5 (Cop Car):24
+Option = Corvette (Cop Car):25
+Option = Porsche 911 (Cop Car):26
+Option = Diablo SV (Cop Car):27
+80118A14 00??
+80114A94 00??
+
+[Opponents(enhanced)\CPU 3 Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:15
+80114AA0 00??
+80118A20 00??
+
+[Opponents(enhanced)\CPU 4 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Mercedes SLK 230:0
+Option = BMW 23 Roadster 2.8:1
+Option = HSV VT GTS:2
+Option = Ford Falcon XR8:3
+Option = Camaro Z28:4
+Option = Firebird T/A:5
+Option = Aston Martin DB7:6
+Option = Jaguar XKR:7
+Option = BMW M5:8
+Option = Corvette:9
+Option = 550 Maranello:10
+Option = Porsche 911:11
+Option = Ferrari F50:12
+Option = Diablo SV:13
+Option = Mercedes CLK-GTR:14
+Option = McLaren F1 GTR:15
+Option = Porsche 911 (Racer):16
+Option = Holden Commondore VT (Racer):17
+Option = Corvette (Racer):18
+Option = Phantom:19
+Option = Titan:20
+Option = Nissan Skyline R34:21
+Option = Caprice (Cop Car):22
+Option = Ford Falcon XR8 (Cop Car):23
+Option = BMW M5 (Cop Car):24
+Option = Corvette (Cop Car):25
+Option = Porsche 911 (Cop Car):26
+Option = Diablo SV (Cop Car):27
+80118AC8 00??
+80114B48 00??
+
+[Opponents(enhanced)\CPU 4 Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:15
+80114B54 00??
+80118AD4 00??
+
+[Opponents(enhanced)\CPU 5 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Mercedes SLK 230:0
+Option = BMW 23 Roadster 2.8:1
+Option = HSV VT GTS:2
+Option = Ford Falcon XR8:3
+Option = Camaro Z28:4
+Option = Firebird T/A:5
+Option = Aston Martin DB7:6
+Option = Jaguar XKR:7
+Option = BMW M5:8
+Option = Corvette:9
+Option = 550 Maranello:10
+Option = Porsche 911:11
+Option = Ferrari F50:12
+Option = Diablo SV:13
+Option = Mercedes CLK-GTR:14
+Option = McLaren F1 GTR:15
+Option = Porsche 911 (Racer):16
+Option = Holden Commondore VT (Racer):17
+Option = Corvette (Racer):18
+Option = Phantom:19
+Option = Titan:20
+Option = Nissan Skyline R34:21
+Option = Caprice (Cop Car):22
+Option = Ford Falcon XR8 (Cop Car):23
+Option = BMW M5 (Cop Car):24
+Option = Corvette (Cop Car):25
+Option = Porsche 911 (Cop Car):26
+Option = Diablo SV (Cop Car):27
+80118B7C 00??
+80114BFC 00??
+
+[Opponents(enhanced)\CPU 5 Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:15
+80114C08 00??
+80118B88 00??
+
+[Opponents(enhanced)\Force Upgrades - Player Car - racing vinyl]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+301148B4 000?
+
+[Opponents(enhanced)\Force Upgrades - Player Car - ride height and gold wheels]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+301148B8 000?
+
+[Opponents(enhanced)\Force Upgrades - Player Car - bodykit]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+301148BC 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 1 - racing vinyl]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114968 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 1 - ride height and gold wheels]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+3011496C 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 1 - bodykit]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114970 000?
+
+
+[Opponents(enhanced)\Force Upgrades - CPU 2 - racing vinyl]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114A1C 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 2 - ride height and gold wheels]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114A20 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 2 - bodykit]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114A24 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 3 - racing vinyl]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114AD0 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 3 - ride height and gold wheels]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114AD4 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 3 - bodykit]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114AD8 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 4 - racing vinyl]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114B84 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 4 - ride height and gold wheels]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114B88 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 4 - bodykit]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114B8C 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 5 - racing vinyl]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114C38 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 5 - ride height and gold wheels]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114C3C 000?
+
+[Opponents(enhanced)\Force Upgrades - CPU 5 - bodykit]
+Type = Gameshark
+Activation = EndFrame
+Option = disabled:0 
+Option = enabled:1
+30114C40 000?
