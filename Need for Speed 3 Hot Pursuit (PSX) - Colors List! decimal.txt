@@ -1,0 +1,130 @@
+SLUS-00620 - Need For Speed 3: Hot Pursuit (PSX)
+
+355 F1
+
+00 - red 
+01 - blue
+02 - green
+03 - orange
+04 - charcoal
+05 - purple
+
+06 - purple
+07 - purple
+
+Corvette
+
+08 - red
+09 - blue
+10 - green
+11 - orange
+12 - silver
+13 - purple
+14 - yellow
+
+15 - purple
+16 - red
+
+Countach
+
+17 - red
+18 - blue
+19 - green
+20 - orange
+21 - silver
+22 - purple
+
+Nazca C2
+
+24 - red
+25 - blue
+26 - green
+27 - orange
+28 - silver
+29 - purple
+30 - yellow
+
+550 Maranello
+
+32 - red
+33 - blue
+34 - green
+35 - orange
+36 - silver
+37 - purple
+38 - yellow
+
+Diablo SV
+
+40 - red
+41 - blue
+42 - green
+43 - orange
+44 - yellow
+45 - purple
+46 - light blue
+
+XJR-15
+
+48 - red
+49 - blue
+50 - green
+51 - orange
+52 - silver
+53 - purple
+54 - yellow
+
+CLK-GTR
+
+56 - red
+57 - blue
+58 - green
+59 - orange
+60 - silver
+61 - purple
+62 - yellow
+
+63 -
+
+EL Nino
+
+64 - light blue w white
+65 - green w white
+66 - blue w yellow
+67 - maroon w yellow
+68 - silver w red
+69 - gold w blue
+70 - red w white
+71 - lime green w blue
+
+72 - black
+73 - rasberry pink
+74 - white
+75 - black
+76 - lighter black
+77 - lighter yellow
+78 - another black
+79 - another yellow
+80 - super white
+81 - super white duplicate
+82 - pale yellow
+83 - orange-ish yellow
+84 - light pale pink
+85 - deep blue
+86 - another white
+87 - light pale blue
+88 - duplicate maroon
+89 - dark brown
+90 - pale purple
+91 - light charcoal blue-ish
+92 - lighter blue
+93 - pale gray green
+94 - dark pale gray green
+95 - yellow-ish beige
+96 - light brown
+97 - another silver
+98 - lighter black
+99 - dark blue
+100 - super black! little bit of blue
+101 to 106 - all black
+107 - white with some red

@@ -1,0 +1,475 @@
+SLUS-00620 - Need For Speed 3: Hot Pursuit (PSX)
+
+[Opponents(enhanced)\P1 Car Modifier]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+800F9FEC 00??
+
+[Opponents(enhanced)\1st AI/opponent - 1on1) either Ice or Karkas Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA090 00??
+
+[Opponents(enhanced)\(2nd AI/opponent) Tad Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA134 00??
+
+[Opponents(enhanced)\(3rd AI/opponent) Swerve Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA1D8 00??
+
+[Opponents(enhanced)\(4th AI/opponent) Terror Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA27C 00??
+
+[Opponents(enhanced)\(5th AI/opponent) Blazin Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA320 00??
+
+[Opponents(enhanced)\(6th AI/opponent) Bullit Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA3C4 00??
+
+[Opponents(enhanced)\(7th AI/opponent) Ice Car]
+Type = Gameshark
+Activation = EndFrame
+Option = Ferrari 355 F1:0
+Option = Chevorlet Corvette:1
+Option = Lamborghini Countach:2
+Option = Nazca C2:3
+Option = Ferrari 550 Maranello:4
+Option = Lamborghini Diablo SV:5
+Option = Jaguar XJR-15:6
+Option = Mercedes CLK-GTR:7
+Option = El Nino:8
+Option = 550 Maranello:9
+Option = 550 Maranello alt:10
+Option = Cop Car Talon:11
+Option = Cop Car truck:12
+Option = Cop Car Crown Victorian:13
+Option = Cop Car Land Rover:14
+Option = Cop Car Chevy:15
+Option = Cop Car Sports Car:16
+Option = Cop Car Sports Car alt:17
+Option = Quatro:18
+Option = BMW M5:19
+Option = Mercedes:20
+Option = Station Wagon:21
+Option = School Bus:22
+Option = Land Rover SUV:23
+Option = Miata:24
+Option = Army Truck:25
+Option = Pickup:26
+Option = Large White Truck with Side Symbol:27
+Option = Large White Truck:28
+Option = Van:29
+Option = Jeep Cherokee:30
+Option = Plymouth Satellite:31
+Option = Ford Classic Pick Up:32
+Option = Ford SUV:33
+Option = Plymouth Cuda:34
+Option = Taxi:35
+Option = Tour Bus:36
+Option = Blurry 550:37
+Option = White Bus:38
+300FA468 00??
+
+[Opponents(enhanced)\(1st AI/opponent) Ice or Karkas Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA09C 00??
+
+
+[Opponents(enhanced)\(2nd AI/opponent) Tad Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA140 00??
+
+
+[Opponents(enhanced)\(3rd AI/opponent) Swerve Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA1E4 00??
+
+
+[Opponents(enhanced)\(4th AI/opponent) Terror Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA288 00??
+
+
+[Opponents(enhanced)\(5th AI/opponent) Blazin Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA32C 00??
+
+
+[Opponents(enhanced)\(6th AI/opponent) Bullit Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA3D0 00??
+
+
+[Opponents(enhanced)\(7th AI/opponent) Ice Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA474 00??
+
+
+[Opponents(enhanced)\P1 Car Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+800F9FF8 00??
+
+[Opponents(enhanced)\(1st AI/opponent) Ice or Karkas Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA0A0 00??
+
+
+[Opponents(enhanced)\(2nd AI/opponent) Tad Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA144 00??
+
+
+[Opponents(enhanced)\(3rd AI/opponent) Swerve Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA1E8 00??
+
+
+[Opponents(enhanced)\(4th AI/opponent) Terror Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA28C 00??
+
+
+[Opponents(enhanced)\(5th AI/opponent) Blazin Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA330 00??
+
+
+[Opponents(enhanced)\(6th AI/opponent) Bullit Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA3D4 00??
+
+
+[Opponents(enhanced)\(7th AI/opponent) Ice Trim Color]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+300FA478 00??
+
+
+[Opponents(enhanced)\P1 Car Trim Color Modifier]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107
+800F9FFC 00??
+
+[Opponents(enhanced)\Ungrouped\How many opponents?]
+Type = Gameshark
+Activation = EndFrame
+Option = solo:0
+Option = 2 racers:1
+Option = Full Grid/all 8 racers:2 
+Option = 4 racers:3
+Option = 5 racers:4
+Option = 6 racers:5
+Option = 7 racers:6
+300FAA86 00??
