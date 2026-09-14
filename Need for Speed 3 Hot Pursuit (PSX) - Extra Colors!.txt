@@ -1,0 +1,32 @@
+There were unused colors in NFS 3 on PlayStation, but there were three, now there is at least 20 unused, cool vehicle colors you can use for your cars, unearthed by me! To use a color for the player car or opponent car, find the corresponding addresses and apply the Color ID to the last 2 digits, load the race, and the vehicle will use that color! You can also use colors from different selectable cars into your car, such as the Maroon color from El Nino with the Ferrari 550 Maranello, and vice versa. Below is the gameshark codes and the list of Extra unused colors you can use. Have fun with this!
+
+P1 Car Modifier
+800F9FEC 00??
+
+P1 Car Color Modifier
+800F9FF8 00??
+
+EXTRA COLORS!
+
+48 - black
+49 - rasberry pink
+4d - lighter yellow
+50 - super white
+52 - pale yellow
+54 - light pale pink
+55 - deep blue
+57 - light pale blue
+59 - dark brown
+5a - pale purple
+5b - light charcoal blue-ish
+5c - lighter blue
+5d - pale gray green
+5e - dark pale gray green
+5f - yellow-ish beige
+60 - light brown
+61 - another silver
+63 - dark blue
+64 - super black! little bit of blue
+6b - white with some red
+
+A note to all NFS3 PSX players: you can use any number from 00 to 6B in hexadecimal format, there is a ton of colors to choose from, aside from the 20 colors that are more unique than the others. Go wild with this!

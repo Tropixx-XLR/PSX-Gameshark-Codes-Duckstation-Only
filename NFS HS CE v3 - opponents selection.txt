@@ -1,0 +1,10 @@
+NFS HS CE V3 - NTSC-U
+Opponents Selection - Tournament and Special Events
+
+301158DA 00??
+
+00 - STOCK
+01 - UPGRADED
+02 - HOT PURSUIT(4 CARS, 4 COPS)
+
+You can play the hot pursuit setup you see in Tournament in Special Events.

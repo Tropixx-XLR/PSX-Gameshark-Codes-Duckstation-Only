@@ -1,0 +1,156 @@
+Game: Need For Speed - High Stakes
+‎Region: NTSC-U
+‎Platform/Emulator: DuckStation (PS1)
+Original Hacker: roughnight
+‎Code type: Gameshark
+
+Opponent #1/Player 2 - Vehicle Color Modifier
+30114938 ??
+
+Opponent #2 - Vehicle Color Modifier
+301149EC ??
+
+Opponent #3 - Vehicle Color Modifier
+30114AA0 ??
+
+Opponent #4 - Vehicle Color Modifier
+30114B54 ??
+
+Opponent #5 - Vehicle Color Modifier
+30114C08 ??
+
+Opponent #6 - Vehicle Color Modifier
+30114CBC ??
+
+Opponent #7 - Vehicle Color Modifier
+30115804 ??
+
+Opponent #8 - Vehicle Color Modifier
+3011634C ??
+
+Opponent #9 - Vehicle Color Modifier
+30116E94 ??
+
+Opponent #10 - Vehicle Color Modifier
+301179DC ??
+
+Hot Pursuit Cop Mode - All Speeders Have The Same Vehicle (Modifier)
+C011487C 41
+50000A34 00
+30114660 ??
+C2114660 01
+3011492C 00
+C2114660 01
+301149E0 00
+C2114660 01
+30114A94 00
+C2114660 01
+30114B48 00
+C2114660 01
+30114BFC 00
+C2114660 01
+30114CB0 00
+C2114660 01
+301157F8 00
+C2114660 01
+30116340 00
+C2114660 01
+30116E88 00
+C2114660 01
+301179D0 00
+
+Hot Pursuit Cop Mode - Speeder #1/Player 2 Vehicle Modifier
+C011487C 41
+30114660 ??
+C2114660 01
+3011492C 00
+
+Hot Pursuit Cop Mode - Speeder #2 Vehicle Modifier
+C011487C 41
+30114694 ??
+C2114694 01
+301149E0 00
+
+Hot Pursuit Cop Mode - Speeder #3 Vehicle Modifier
+C011487C 41
+301146C8 ??
+C21146C8 01
+30114A94 00
+
+Hot Pursuit Cop Mode - Speeder #4 Vehicle Modifier
+C011487C 41
+301146FC ??
+C21146FC 01
+30114B48 00
+
+Hot Pursuit Cop Mode - Speeder #5 Vehicle Modifier
+C011487C 41
+30114730 ??
+C2114730 01
+30114BFC 00
+
+Hot Pursuit Cop Mode - Speeder #6 Vehicle Modifier
+C011487C 41
+30114764 ??
+C2114764 01
+30114CB0 00
+
+Hot Pursuit Cop Mode - Speeder #7 Vehicle Modifier
+C011487C 41
+30114798 ??
+C2114798 01
+301157F8 00
+
+Hot Pursuit Cop Mode - Speeder #8 Vehicle Modifier
+C011487C 41
+301147CC ??
+C21147CC 01
+30116340 00
+
+Hot Pursuit Cop Mode - Speeder #9 Vehicle Modifier
+C011487C 41
+30114800 ??
+C2114800 01
+30116E88 00
+
+Hot Pursuit Cop Mode - Speeder #10 Vehicle Modifier
+C011487C 41
+30114834 ??
+C2114834 01
+301179D0 00
+
+Opponents Don't Move (No Cop Mode)
+C011487C 01
+E0114930 02
+30114930 09
+E01149E4 02
+301149E4 09
+E0114A98 02
+30114A98 09
+E0114B4C 02
+30114B4C 09
+E0114C00 02
+30114C00 09
+
+Number Of Racers Modifier (No Cop Mode)
+E111487C 41
+30114868 ??
+
+Race Alone & No Police (No Cop Mode)
+E111487C 41
+30114868 01
+
+Hot Pursuit - Use Any Vehicle As Cop (Modifier)
+C0182AF0 02
+C01838E8 00
+30114878 ??
+E0052FF1 40
+30115914 18
+
+Hot Pursuit - Use Any Vehicle As Speeder (Modifier)
+C0182AF0 02
+C01838E8 00
+30114878 ??
+E0052FF1 40
+30115914 00
+

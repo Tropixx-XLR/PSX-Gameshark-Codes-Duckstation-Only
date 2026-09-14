@@ -1,0 +1,234 @@
+00 - Hummer
+01 - Vehicross
+02 - RAM
+03 - Hummer Wagon
+04 - Saleen Explorer
+05 - Pathfinder
+06 - Defender 90
+07 - Durango
+08 - Explorer
+09 - Wrangler Sport
+0A - Grand Cherokee
+0B - Frontier
+0C - F-150
+0D - Wrangler
+0E - T-REX
+0F - Military Hummer
+10 - Shelby Durango
+11 - Racing F-150
+12 - Outback
+13 - Cherokee
+14 - RAM V10
+15 - Chenowth DR1-V
+16 - D.P.V.
+17 - XTERRA
+18 - Hummer Carrier
+19 - SA-9 Gaskin
+1A - Rover Ambulance
+
+CHEAT CODE: 3007CC1A ??
+
+CHEAT CODE: 3007CC62 ?? opponent 1
+CHEAT CODE: 3007CC63 ?? opponent 1
+
+CHEAT CODE: 3007CC7A ?? opp 2
+CHEAT CODE: 3007CC7B ?? opp 2
+
+CHEAT CODE: 3007CC32 ?? opp 3
+CHEAT CODE: 3007CC33 ?? opp 3
+
+CHEAT CODE: 3007CC4A ?? OPP 4
+CHEAT CODE: 3007CC4B ?? OPP 4
+
+Option = Hummer:00
+Option = Vehicross:01
+Option = RAM:02
+Option = Hummer Wagon:03
+Option = Saleen Explorer:04
+Option = Pathfinder:05
+Option = Defender 90:06
+Option = Durango:07
+Option = Explorer:08
+Option = Wrangler Sport:09
+Option = Grand Cherokee:10
+Option = Frontier:11
+Option = F-150:12
+Option = Wrangler:13
+Option = T-REX:14
+Option = Military Hummer:15
+Option = Shelby Durango:16
+Option = Racing F-150:17
+Option = Outback:18
+Option = Cherokee:19
+Option = RAM V10:20
+Option = Chenowth DR1-V:21
+Option = D.P.V.:22
+Option = XTERRA:23
+Option = Hummer Carrier:24
+Option = SA-9 Gaskin:25
+Option = Rover Ambulance:26
+
+
+[Custom Grid\Player 1 Vehicle]
+Type = Gameshark
+Activation = EndFrame
+Option = Hummer:00
+Option = Vehicross:01
+Option = RAM:02
+Option = Hummer Wagon:03
+Option = Saleen Explorer:04
+Option = Pathfinder:05
+Option = Defender 90:06
+Option = Durango:07
+Option = Explorer:08
+Option = Wrangler Sport:09
+Option = Grand Cherokee:10
+Option = Frontier:11
+Option = F-150:12
+Option = Wrangler:13
+Option = T-REX:14
+Option = Military Hummer:15
+Option = Shelby Durango:16
+Option = Racing F-150:17
+Option = Outback:18
+Option = Cherokee:19
+Option = RAM V10:20
+Option = Chenowth DR1-V:21
+Option = D.P.V.:22
+Option = XTERRA:23
+Option = Hummer Carrier:24
+Option = SA-9 Gaskin:25
+Option = Rover Ambulance:26
+3007CC1A ??
+
+[Custom Grid\Opponent 1 Vehicle]
+Type = Gameshark
+Activation = EndFrame
+Option = Hummer:00
+Option = Vehicross:01
+Option = RAM:02
+Option = Hummer Wagon:03
+Option = Saleen Explorer:04
+Option = Pathfinder:05
+Option = Defender 90:06
+Option = Durango:07
+Option = Explorer:08
+Option = Wrangler Sport:09
+Option = Grand Cherokee:10
+Option = Frontier:11
+Option = F-150:12
+Option = Wrangler:13
+Option = T-REX:14
+Option = Military Hummer:15
+Option = Shelby Durango:16
+Option = Racing F-150:17
+Option = Outback:18
+Option = Cherokee:19
+Option = RAM V10:20
+Option = Chenowth DR1-V:21
+Option = D.P.V.:22
+Option = XTERRA:23
+Option = Hummer Carrier:24
+Option = SA-9 Gaskin:25
+Option = Rover Ambulance:26
+3007CC62 ??
+3007CC63 ??
+
+[Custom Grid\Opponent 2 Vehicle]
+Type = Gameshark
+Activation = EndFrame
+Option = Hummer:00
+Option = Vehicross:01
+Option = RAM:02
+Option = Hummer Wagon:03
+Option = Saleen Explorer:04
+Option = Pathfinder:05
+Option = Defender 90:06
+Option = Durango:07
+Option = Explorer:08
+Option = Wrangler Sport:09
+Option = Grand Cherokee:10
+Option = Frontier:11
+Option = F-150:12
+Option = Wrangler:13
+Option = T-REX:14
+Option = Military Hummer:15
+Option = Shelby Durango:16
+Option = Racing F-150:17
+Option = Outback:18
+Option = Cherokee:19
+Option = RAM V10:20
+Option = Chenowth DR1-V:21
+Option = D.P.V.:22
+Option = XTERRA:23
+Option = Hummer Carrier:24
+Option = SA-9 Gaskin:25
+Option = Rover Ambulance:26
+3007CC7A ??
+3007CC7B ??
+
+[Custom Grid\Opponent 3 Vehicle]
+Type = Gameshark
+Activation = EndFrame
+Option = Hummer:00
+Option = Vehicross:01
+Option = RAM:02
+Option = Hummer Wagon:03
+Option = Saleen Explorer:04
+Option = Pathfinder:05
+Option = Defender 90:06
+Option = Durango:07
+Option = Explorer:08
+Option = Wrangler Sport:09
+Option = Grand Cherokee:10
+Option = Frontier:11
+Option = F-150:12
+Option = Wrangler:13
+Option = T-REX:14
+Option = Military Hummer:15
+Option = Shelby Durango:16
+Option = Racing F-150:17
+Option = Outback:18
+Option = Cherokee:19
+Option = RAM V10:20
+Option = Chenowth DR1-V:21
+Option = D.P.V.:22
+Option = XTERRA:23
+Option = Hummer Carrier:24
+Option = SA-9 Gaskin:25
+Option = Rover Ambulance:26
+3007CC32 ??
+3007CC33 ??
+
+[Custom Grid\Opponent 4 Vehicle]
+Type = Gameshark
+Activation = EndFrame
+Option = Hummer:00
+Option = Vehicross:01
+Option = RAM:02
+Option = Hummer Wagon:03
+Option = Saleen Explorer:04
+Option = Pathfinder:05
+Option = Defender 90:06
+Option = Durango:07
+Option = Explorer:08
+Option = Wrangler Sport:09
+Option = Grand Cherokee:10
+Option = Frontier:11
+Option = F-150:12
+Option = Wrangler:13
+Option = T-REX:14
+Option = Military Hummer:15
+Option = Shelby Durango:16
+Option = Racing F-150:17
+Option = Outback:18
+Option = Cherokee:19
+Option = RAM V10:20
+Option = Chenowth DR1-V:21
+Option = D.P.V.:22
+Option = XTERRA:23
+Option = Hummer Carrier:24
+Option = SA-9 Gaskin:25
+Option = Rover Ambulance:26
+3007CC4A ??
+3007CC4B ??

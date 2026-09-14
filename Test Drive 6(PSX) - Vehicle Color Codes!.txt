@@ -1,0 +1,55 @@
+These new codes for Test Drive 6 on Playstation allow you to handpick colors for your car and the opponents for the first time, there are no limitations to what you can pick! These are listed individually starting from the Car Modifier Code, to the new Vehicle Color modifier codes, the color reference will be shown on this video! For saturation, the lower the number, the whiter and paler the color gets!
+
+Opponent 1 Vehicle Color
+300A8364 00?? (1st opponent)
+
+300A8366 00?? - COLOR 1 HUE
+300A8367 00?? - COLOR 1 SATURATION
+300A8368 00?? - COLOR 2 HUE
+300A8369 00?? - COLOR 2 SATURATION
+
+
+
+Opponent 2 Vehicle Color
+300A8104 00?? (2nd opponent)
+
+300A8106 00?? - COLOR 1 HUE
+300A8107 00?? - COLOR 1 SATURATION
+300A8108 00?? - COLOR 2 HUE
+300A8109 00?? - COLOR 2 SATURATION
+
+
+Opponent 3 Vehicle Color
+300A82CC 00?? (3rd opponent)
+
+300A82CE 00?? - COLOR 1 HUE
+300A82CF 00?? - COLOR 1 SATURATION
+300A82D0 00?? - COLOR 2 HUE
+300A82D1 00?? - COLOR 2 SATURATION
+
+
+Opponent 4 Vehicle Color
+300A8234 00?? (4th opponent)
+
+300A8236 00?? - COLOR 1 HUE
+300A8237 00?? - COLOR 1 SATURATION
+300A8238 00?? - COLOR 2 HUE
+300A8239 00?? - COLOR 2 SATURATION
+
+
+Opponent 5 Vehicle Color
+300A819C 00?? (5th opponent)
+
+300A819E 00?? - COLOR 1 HUE
+300A819F 00?? - COLOR 1 SATURATION
+300A81A0 00?? - COLOR 2 HUE
+300A81A1 00?? - COLOR 2 SATURATION
+
+
+Player Vehicle Color
+300A806C 00?? (Player Vehicle)
+
+300A806E 00?? - COLOR 1 HUE
+300A806F 00?? - COLOR 1 SATURATION
+300A8070 00?? - COLOR 2 HUE
+300A8070 00?? - COLOR 2 SATURATION

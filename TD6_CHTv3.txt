@@ -1,0 +1,118 @@
+Cheats' memory addresses and values:
+Cop cars are purchasable (R1 + R2 + X):
+E00CF3D7 00B5
+300AE2A8 0004
+Cop chase car: 300ACD3C 00XX
+Super upgrades (must be purchased to work): 300CAA46 000F
+Super car mass (setting the value to FFFF will increase speed when colliding): 800AE774 0000
+Turbo/Brake bias tuning: 800AEF04 F000
+Player car (replaces cop chase car): 300A806C 00XX
+Opponents' cars:
+300A8364 00XX (1st opponent)
+300A8104 00XX (2nd opponent)
+300A82CC 00XX (3rd opponent)
+300A8234 00XX (4th opponent)
+300A819C 00XX (5th opponent)
+AI cop amount/AI cops in circuit tracks, challenges and cop chase (the default is to have as many AI cops as possible): 300A805C 007F
+Traffic amount/Traffic in circuit tracks (the default is to have as many traffic as possible): 300A8060 007F
+Cop nightmare (must not have Cop amount and Traffic amount cheats enabled):
+300A8060 0000
+300A805C 007F
+Game mode: 300A8068 000Y
+Have all tracks (SELECT):
+E00CF3D6 00FE
+3010251C 0021
+300AE42E 0000
+300AE430 0001
+300AE432 0002
+300AE434 0003
+300AE436 0004
+300AE438 0005
+300AE43A 0006
+300AE43C 0007
+300AE43E 0008
+300AE440 0009
+300AE442 000A
+300AE444 000B
+300AE446 000C
+300AE448 000D
+300AE44A 000E
+300AE44C 000F
+300AE44E 0010
+300AE450 0011
+300AE452 0012
+300AE454 0013
+300AE456 0014
+300AE458 0015
+300AE45A 0016
+300AE45C 0017
+300AE45E 0018
+300AE460 0019
+300AE462 001A
+300AE464 001B
+300AE466 001C
+300AE468 001D
+300AE46A 001E
+300AE46C 001F
+300AE46E 0020
+300AE470 0021
+
+00XX = 0000 (F150 Lightning)
+00XX = 0001 (Ford GT-40)
+00XX = 0002 (Viper GTS)
+00XX = 0003 (TVR Cerbera)
+00XX = 0004 (DB7 Vantage)
+00XX = 0005 (Viper GTS-R)
+00XX = 0006 (Esprit V8)
+00XX = 0007 (Jaguar XK-R)
+00XX = 0008 (Mustang GT)
+00XX = 0009 (Dodge Concept)
+00XX = 000A (Prowler)
+00XX = 000B (Cuda)
+00XX = 000C (Dodge Charger)
+00XX = 000D (Saleen Mustang)
+00XX = 000E (Super Stallion)
+00XX = 000F (Mustang LX 5.0)
+00XX = 0010 (Mustang 428 CJ)
+00XX = 0011 (Jaguar XK-180)
+00XX = 0012 (Jaguar XJ-220)
+00XX = 0013 (Project Vantage)
+00XX = 0014 (TVR Speed 12)
+00XX = 0015 (TVR Tuscan)
+00XX = 0016 (Shelby Cobra)
+00XX = 0017 (Shelby Series 1)
+00XX = 0018 (Caterham 7)
+00XX = 0019 (Skyline GTR)
+00XX = 001A (Nissan R390 GT-1)
+00XX = 001B (Lotus Elise)
+00XX = 001C (Lotus GT1)
+00XX = 001D (AIV Roadster)
+00XX = 001E (Pitbull 1)
+00XX = 001F (Audi TT)
+00XX = 0020 (Subaru Impreza)
+00XX = 0021 (Atlantique)
+00XX = 0022 (Marcos Mantaray)
+00XX = 0023 (Panoz Esperante)
+00XX = 0024 (Venturi 400GT)
+00XX = 0025 (Esprit Turbo)
+00XX = 0026 (Pitbull 2)
+00XX = 0027 (Toyota GT-One)
+00XX = 0028 (TVR Griffith)
+00XX = 0029 (Jaguar Cop Car)
+00XX = 002A (Charger Cop Car)
+00XX = 002B (Mustang Cop Car)
+00XX = 002C (Cerbera Cop Car)
+Pitbull 1 and 2 are aliases for Ford GT-40. There's nothing special about them, but they change most opponents' car to F150 Lightning.
+
+000Y = 0001 (Classic race)
+000Y = 0002 (Autopilot race)
+000Y = 0005 (Cop chase)
+000Y = 0006 (Be a bomber)
+000Y = 0007 (Autopilot bomber)
+In bomber game mode, horn button is used to drop bombs.
+
+Cheat hotkeys (refer to https://www.cheatcc.com/psx/codes/jokercom.html#mainContent):
+E00CF3D6 00??
+E00CF3D7 00??
+D00CF3D6 ????
+D = 16-bit addressing; E = 8-bit addressing.

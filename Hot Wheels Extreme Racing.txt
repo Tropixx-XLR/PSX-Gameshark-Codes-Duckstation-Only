@@ -1,0 +1,15 @@
+00 silouette 2
+01 4x4
+02 catapult
+03 Shadow jet
+04 double vision
+05 super modified
+06 tow jam
+07 rollcage
+
+Opponent car modifer
+CHEAT CODE: 3006642F 000?
+CHEAT CODE: 30066436 000?
+CHEAT CODE: 3006643D 000?
+
+Each of the 3 addresses on top represent an individual CPU Opponent.

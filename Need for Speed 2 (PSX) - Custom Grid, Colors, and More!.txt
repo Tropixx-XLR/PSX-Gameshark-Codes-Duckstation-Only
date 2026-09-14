@@ -1,0 +1,143 @@
+Car Modifier Values
+00-McLaren F1
+01-Ferrari F50
+02-Ford GT90
+03-Ford Indigo
+04-Jaguar XJ20
+05-Lotus GT1
+06-Lotus Espirit
+07-Italdesign Cala
+08-Isdera 112i
+
+Secret Cars
+0A-Ford Hybrid (GT90 Exterior/Indigo Interior)
+0D-Citogen
+0E-Commanche
+0F-School Bus
+10-Semi
+11-Van
+12-Quattro
+13-Volvo
+14-Jeep YJ
+15-Mercades Benz
+16-Saab
+17-Miata
+18-VW Bug
+19-Landcruiser
+1A-Army Truck
+1B-BMW
+1C-Army Truck 2
+1D-Studio Tram
+1E-Limo
+1F-VW Fastback
+20-22- School bus
+23-Crate
+24-Cart
+25-Outhouse
+26-T-Rex
+27-Conestoga wagon
+28-Stand A
+29-Stand B
+2A-Stand C
+2B-Log
+2C-crate 2
+2D-Monorail
+
+Color hexadecimal IDs
+
+00 - white
+01 - gun metal gray
+02 - reddish pink
+03 - maroon
+04 - dark purple
+05 - Cala Yellow
+06 - peach or apricot
+07 - olive
+08 - dark green
+09 - light-ish blue
+0A - regular blue
+0B - purple
+0C - forest green
+0D - beige or gold
+0E - silver
+0F - purpleish pink or violet
+10 - light pale green
+11 - pale light blue
+12 - beige
+13 - yellow
+14 - apricot
+15 - dark yellow
+16 - light green
+17 - pale pink
+18 - black (its glitchy)
+
+player car modifier
+800F6B14 000000??
+
+player color modifier
+800F6B20 000000??
+
+cpu 1 car modifier
+800F6B48 00??
+
+cpu 1 color
+800F6B54 00??
+
+cpu 2 car modifier
+800F6B7C 00??
+
+cpu 2 color
+800F6B88 00??
+
+cpu 3 car modifier
+800F6BB0 00??
+
+cpu 3 color
+800F6BBC 00??
+
+cpu 4 car modifier
+800F6BE4 00??
+
+cpu 4 color
+800F6BF0 00??
+
+cpu 5 car modifier
+800F6C18 00??
+
+cpu 5 color
+800F6C24 00??
+
+cpu 6 car modifier
+800F6C4C 00??
+
+cpu 6 color
+800F6C58 00??
+
+cpu 7 car modifier
+800F6C80 00??
+
+cpu 7 color
+800F6C8C 00??
+
+cpu 8 car
+800F6CC4 00??
+
+cpu 8 color
+800F6CDC 00??
+
+How many cars you want on the grid?
+
+Opponent car number
+800E2954 00??
+
+0 - none
+1 - 2 cars(including player car)
+2 - 8 cars(including player car)
+3 - 4 cars(including player car)
+4 - 5 cars(including player car)
+5 - 6 cars(including player car)
+6 - 7 cars(including player car)
+7 - 8 cars(including player car)
+8 - 9 cars(including player car) - QUITS to race result, beware!
+
+Anything over 7 does increase the amount of cars but immediately QUITS to race result, DO NOT TRY THIS!

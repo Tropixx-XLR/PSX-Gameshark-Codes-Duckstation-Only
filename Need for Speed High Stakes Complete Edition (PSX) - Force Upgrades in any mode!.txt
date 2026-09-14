@@ -1,0 +1,38 @@
+These new codes that I have created will allow players to equip upgrades seen in career mode, in anywhere, anytime, all will take effect on the next race load, can be applied to Player Cars, Opponent Cars, Police Cars, and Speeders. With all these race customizer codes, High Stakes on Playstation has never had this much freedom to customize and let loose onto the roads. HAVE FUN!
+
+Fill the question with one of the two numbers.
+0 is Disabled, 1 is Enabled!
+
+First is racing vinyl
+Second is ride height and gold wheels
+Third is bodykit
+
+Force Upgrades - Player Car
+301148B4 000?
+301148B8 000?
+301148BC 000?
+
+Force Upgrades - CPU 1
+30114968 000?
+3011496C 000?
+30114970 000?
+
+Force Upgrades - CPU 2 
+30114A1C 000?
+30114A20 000?
+30114A24 000?
+
+Force Upgrades - CPU 3
+30114AD0 000?
+30114AD4 000?
+30114AD8 000?
+
+Force Upgrades - CPU 4
+30114B84 000?
+30114B88 000?
+30114B8C 000?
+
+Force Upgrades - CPU 5
+30114C38 000?
+30114C3C 000?
+30114C40 000?
