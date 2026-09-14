@@ -1,0 +1,64 @@
+ULUS-10073 V1.2
+Cars [US]
+Developer: Locomotive Games(Formerly Pacific Coast Power & Light)
+
+AI Car Modifier codes in Custom Race Mode!
+
+Experience Cars on PSP like never before, expand the boundaries of the game to include the following in Custom Race mode:
+
+- Fabulous Hudson Hornet as an Opponent!
+- AI Cars can use Alternate Paint Jobs for the First time as the original release had no such option!
+- Duplicate Characters!(For example, 6 Lighting Mcqueens, 3-6 Maters, 5 Fillmores, and vice versa)
+
+_C0 First Opponent Car Modifier
+_L 0x00708A40 0x00000000
+_C0 First Opponent Color Modifier
+_L 0x00708A54 0x00000000
+_C0 Second Opponent Car Modifier
+_L 0x00708A5C 0x00000000
+_C0 Second Opponent Color Modifier
+_L 0x00708A70 0x00000000
+_C0 Third Opponent Car Modifier
+_L 0x00708A78 0x00000000
+_C0 Third Opponent Color Modifier
+_L 0x00708A8C 0x00000000
+_C0 Fourth Opponent Car Modifier
+_L 0x00708A94 0x00000000
+_C0 Fourth Opponent Color Modifier
+_L 0x00708AA8 0x00000000
+_C0 Fifth Opponent Car Modifier
+_L 0x00708AB0 0x00000000
+_C0 Fifth Opponent Color Modifier
+_L 0x00708AC4 0x00000000
+
+Character IDs:
+
+00 Lightning Mcqueen
+01 Sally
+02 Mater
+03 Doc Hudson
+04 Sheriff
+05 Ramone
+06 Luigi
+07 Flo
+08 Chick Hicks
+09 Lizzie
+0a Fillmore
+0b Sarge
+0c Fabulous Hudson Hornet
+
+11 DJ
+12 Boost
+13 Wingo
+14 Snot Rod
+
+Color IDs
+
+01 Paint job 1
+02 Paint job 2
+03 Paint job 3
+04 Paint job 4
+
+Instructions:
+
+Replace last two digits on second address to load the character or color you want for that specific opponent! Recommended you start a race with all positions filled, exiting, then enabling the codes, the cars and colors should show up!

@@ -1,0 +1,20 @@
+duck station sample
+Range!
+[category\cheat]
+Type = Gameshark
+Activation = EndFrame
+OptionRange = 0:107 - Numbers! minimum:maximum
+16 digit code goes here
+
+Choices!
+[category\cheat]
+Type = Gameshark
+Activation = EndFrame
+Option = choice:0 
+Option = choice:1
+Option = choice:2 
+Option = choice:3
+Option = choice:4
+Option = choice:5
+Option = choice:6
+16 digit code goes here

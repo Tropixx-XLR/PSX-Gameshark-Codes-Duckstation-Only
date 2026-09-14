@@ -1,0 +1,304 @@
+For the first time ever in EA Sports Supercross 2001 on Playstation, you get to choose your own competition with any rider you want with no restrictions! Go wild with this and form up your own riding roster for dirt-slinging action where it's fresh every time! Follow the instructions below to get it working!
+
+First Opponent
+300CCCF9 00??
+300CCCFB 00??
+
+Second Opponent
+300CCD00 00??
+300CCD02 00??
+
+Third Opponent
+300CCD07 00??
+300CCD09 00??
+
+Fourth Opponent
+300CCD0E 00??
+300CCD10 00??
+
+Fifth Opponent
+300CCD15 00??
+300CCD17 00??
+
+Sixth Opponent
+300CCD1C 00??
+300CCD1E 00??
+
+Seventh Opponent
+300CCD23 00??
+300CCD25 00??
+
+Rider List!
+
+enter these numbers on the last two digits on first(name) and second addresses(rider apperance)!
+
+00 Greg Albertyn
+
+00 and 0A
+
+1 buddy antunez
+
+01 and 02
+
+2 stefy bau
+
+02 and 01
+
+3 jimmy button
+
+03 and 0C
+
+4 john dowd
+
+04 and 08
+
+5 jeff emig
+
+05 and 05
+
+6 tim ferry
+
+06 and 13
+
+7 doug henry
+
+07 and 25
+
+8 damon huffman
+
+08 and 06
+
+9 mike larocco
+
+09 and 00
+
+a phil lawerence
+
+0A and 10
+
+b ezra lusk
+
+0B and 0D
+
+c jessica patterson
+
+0C and 2F
+
+d robbie reynard
+
+0D and 0B
+
+e jean sebastien roy
+
+0E and 15
+
+f denny stephenson
+
+0F and 11
+
+10 sebastien tortelli
+
+10 and 04
+
+11 heath voss
+
+11 and 09
+
+2 larry ward
+
+12 and 07
+
+3 kevin windham
+
+13 and 03
+
+4 clifford adoptante
+
+14 and 12
+
+5 mike cinqmars
+
+15 and 0E
+
+6 brain deegan
+
+16 and 0F
+
+7 carey hart
+
+17 and 24
+
+8 mike jones
+
+18 and 14
+
+9 mike metzger
+
+19 and 26
+
+a nicholas roy
+
+1A and 27
+
+b ecko rider
+
+1B and 42
+
+c robert davis
+
+1C and 43
+
+d dave davis
+
+1D and 54
+
+e david bailey
+
+1E and 2E
+
+f roger decoster
+
+1F and 40
+
+20 johnny o mara
+
+20 and 41
+
+
+Custom Riders MIGHT NOT WORK PROPERLY! looking for someone to contribute!
+
+1 custom rider 1
+
+21 and 0F
+
+2 custom rider 2
+
+22 and 0F
+
+3 custom rider 3
+
+23 and 0F
+
+4 custom rider 4
+
+24 and 0F
+
+5 custom rider 5
+
+25 and 0F
+
+
+
+Joke Riders:
+
+HotTub Harvey
+
+26 and 16
+
+MR34 robot
+
+27 and 17
+
+Some Guy
+
+28 and 18
+
+Space Overlord
+
+29 and 19
+
+Agent Albert
+
+2A and 1A
+
+Harry Bigfoot
+
+2B and 1B
+
+Tricky the Clown
+
+2C and 1C
+
+Sir Dirthead
+
+2D and 1D
+
+Bob Page
+
+2E and 1E
+
+Bones
+
+2F and 1F
+
+Happy Smiley
+
+30 and 20
+
+Marimba
+
+31 and 21
+
+EA guy
+
+32 and 22
+
+SuperCross Avenger
+
+33 and 23
+
+El Luchador
+
+34 and 28
+
+Freedom Fighter
+
+35 and 29
+
+The Zombie
+
+36 and 2A
+
+Astro Nut
+
+37 and 2B
+
+Doc Iinvizzo
+
+38 and 2C
+
+Moto Samurai
+
+39 and 2D
+
+EA Gal
+
+3A and 44
+
+The King
+
+3B and 45
+
+Smitty Sugarlegs
+
+3C and 46
+
+BillyRay MudMullet
+
+3D and 47
+
+TieDye Guy
+
+3E and 48
+
+Sarcophangus Jones
+
+3F and 49
+
+Brave Scotsman
+
+40 and 4A
+
+Spitt Polish
+
+41 and 4B
